@@ -2,11 +2,11 @@
 
 Morse Code: A Timeless Communication System
 
- What is moose code? 
+ What is morse code? 
 
 Morse code is a system of encoding text using sequences of dots (.) and dashes (-) to represent letters, numbers, and punctuation marks. Originally developed for telegraph communication, it remains an enduring and adaptable method of transmitting messages across various mediums.
 
- Historical Background for moose code
+ Historical Background for morse code
 
 Developed in the early 19th century by Samuel Morse and Alfred Vail, Morse code was introduced as a means of sending messages via the telegraph—a revolutionary device that enabled long-distance communication through electrical signals. Before the advent of the telephone, Morse code played a crucial role in bridging distances and enhancing connectivity across regions.
 
